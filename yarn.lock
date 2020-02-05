@@ -301,10 +301,10 @@ align-text@^0.1.1, align-text@^0.1.3:
     longest "^1.0.1"
     repeat-string "^1.5.2"
 
-almond-dialog-agent@~1.7.0:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/almond-dialog-agent/-/almond-dialog-agent-1.7.3.tgz#55f95d54997284da1cb1dd91428a2aa69ea3f3a4"
-  integrity sha512-9L5JG44UxfbuGNA7SQ4BQ8DbBUqsNn/M9N2GVkuZHN9r8LDwXe1k1ORNWnaoIQqv3H6Y1Zvkv2eE1glKnwkb6Q==
+almond-dialog-agent@~1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/almond-dialog-agent/-/almond-dialog-agent-1.7.4.tgz#8fd658c6e3987578f9c9ced282394ff9c9587c82"
+  integrity sha512-Wm0zR9eUcdkQFvo08iyfjno53+sUE8dzLGtL4ukO7LGaKyDvUcw1NRMo8L6hy1nTh/p4P+cjY9K9DIlqOaW4jQ==
   dependencies:
     adt "^0.7.2"
     consumer-queue "^1.0.0"
