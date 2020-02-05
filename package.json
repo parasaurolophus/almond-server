@@ -11,7 +11,7 @@
   },
   "resolutions": {},
   "dependencies": {
-    "almond-dialog-agent": "~1.7.0",
+    "almond-dialog-agent": "~1.7.4",
     "body-parser": "^1.17.2",
     "color-scheme": "^1.0.0",
     "connect-flash": "^0.1.1",
